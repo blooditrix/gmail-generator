@@ -4,8 +4,8 @@
 #   Updated    : yungK1LL
 #   GitHub      : https://github.com/unix121
 #   GitHub      : https://github.com/blooditrix
-#   Year        : 2018
-#   Description : [Updated]Script that generates random Gmail account. Still stalls at phone verification.
+#   Year          : 2018
+#   Description : [Updated] Script that generates random Gmail account. Still stalls at phone verification.
 
 import pyautogui
 import sys

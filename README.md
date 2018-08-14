@@ -20,6 +20,7 @@ This program is released under MIT license.
 	<li> You must have <a href="https://pypi.python.org/pypi/PyAutoGUI">pyautogui</a> installed </li>
 	<li> Firefox </li>
 	<li> Replace the image under /source/images/start_button.png with your menu's icon</li>
+	<li>[UPDATED v2018] In some instances it may be necessary to also replace the gmail_form.png.</li>
 	<li> Run the script 
 
 		python gmail_generator.py
@@ -33,8 +34,11 @@ This program is released under MIT license.
 <ul> The author is not responsible for any damage caused by the script so use it with caution.</ul>
 
 <h3>Author:</h3> <ul>Stavros Grigoriou</ul>
+<h3>Updater:</h3> <ul>yungK1LL</ul>
 <h3>GitHub:</h3> <ul>https://github.com/unix121</ul>
+<h3>GitHub:</h3> <ul>https://github.com/blooditrix</ul>
 <h3>E-mail:</h3> <ul>unix121@protonmail.com</ul>
+<h3>E-mail:</h3> <ul>ex0dust@protonmail.ch</ul>
 
 <h3>Support this project</h3>
 Patreon: https://www.patreon.com/unix121
